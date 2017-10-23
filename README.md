@@ -1,7 +1,7 @@
 # Package name: laravel-mobile-notifications
 
 ## Installation for composer
-<pre>composer require edyrkaj/laravel-push-notification</pre>
+<pre>composer require edyrkaj/laravel-mobile-notification</pre>
 
 ## Laravel 4 5 Push Notification from Server Side
 
