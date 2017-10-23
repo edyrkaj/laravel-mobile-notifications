@@ -1,5 +1,8 @@
 # Package name: laravel-mobile-notifications
 
+## Installation for composer
+<pre>composer require edyrkaj/laravel-push-notification</pre>
+
 ## Laravel 4 5 Push Notification from Server Side
 
 This is a package to manage push notification to devices iOS | Android through Laravel.
@@ -24,3 +27,8 @@ The workflow that we suggest can be:
     - Implement methods to call Service PushService which comes with this installation on Services/PushService
     
 
+## License
+
+This package is released under the MIT License.
+
+Copyright (c) 2017 Eledi Dyrkaj
