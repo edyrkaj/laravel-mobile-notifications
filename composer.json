@@ -1,0 +1,25 @@
+{
+    "name": "edyrkaj/laravel-push-notification",
+    "description": "Laravel/Lumen package to send push notifications to mobile devices (apns, gcm)",
+     "keywords": ["apns","gcm","push","notification", "laravel", "lumen"],
+    "authors": [
+        {
+            "name": "Eledi Dyrkaj",
+            "email": "edyrkaj@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.*",
+        "sly/notification-pusher": "2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Edyrkaj\\LaravelMobileNotification": "src/"
+        },
+        "files": [
+            "app/Services/PushService.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
