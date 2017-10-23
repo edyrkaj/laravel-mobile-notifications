@@ -1,5 +1,5 @@
 {
-    "name": "edyrkaj/laravel-push-notification",
+    "name": "edyrkaj/laravel-mobile-notification",
     "description": "Laravel/Lumen package to send push notifications to mobile devices (apns, gcm)",
      "keywords": ["apns","gcm","push","notification", "laravel", "lumen"],
     "authors": [
