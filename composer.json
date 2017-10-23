@@ -10,7 +10,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "sly/notification-pusher": "2.*"
+        "sly/notification-pusher": "2.*",
+        "illuminate/support" : "5.5.*"
     },
     "autoload": {
         "psr-0": {
